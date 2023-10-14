@@ -1,2 +1,9 @@
 I have 3.5 years of experience as a full stack developer
-I am always aspired and eager to learn new techies:
+I am always aspired and eager to learn new techies
+Full Stack:
+Git and Github
+Java 8
+Spring, Spring Boot and Hibernate
+React JS
+AWS
+Some knowledge on Jenkins
